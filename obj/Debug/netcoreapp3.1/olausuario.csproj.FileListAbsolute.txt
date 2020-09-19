@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.exe
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.deps.json
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.dll
+C:\Users\kelly\Documents\atividadespc1\olausuario\bin\Debug\netcoreapp3.1\olausuario.pdb
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.dll
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.pdb
+C:\Users\kelly\Documents\atividadespc1\olausuario\obj\Debug\netcoreapp3.1\olausuario.genruntimeconfig.cache
